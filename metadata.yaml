@@ -2,5 +2,5 @@ homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/digistore24-purchase-helper#readme"
 versions:
   # Latest version
-  - sha: xxxxxxxxx
+  - sha: 54589b77b5584c552383b97847d771e619178b6d
     changeNotes: Initial release.
