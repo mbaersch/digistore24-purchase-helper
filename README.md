@@ -1,6 +1,11 @@
 # Digistore24 Purchase Helper (digistore24-purchase-helper)
 Google Tag Manager Custom Variable Template. Extracts Digistore24 purchase data from (user-defined) URL parameters and provides an e-commerce object in Universal Analytics or GA4 format.
 
+## Adding Parameters to Thank-You-Page URL in Digistore24
+When using Digistore24 to sell products, you can opt in to add parameters to the thank you page URL - either automatically or manually. As a fully tagged URL contains a lot of information and gets *very* long, the preferable choice is manual tagging. Add the following parameters to the URL - they contain all data that is used by the variable, using the default parameter keys. 
+
+`?order_id=[ORDER_ID]&product_id=[PRODUCT_ID]&product_name=[PRODUCT_NAME]&quantity=[QUANTITY]&currency=[CURRENCY]&amount=[AMOUNT]&vat_amount=[VAT_AMOUNT]&net_amount=[NET_AMOUNT]`
+
 ## Usage
 Create a new variable with this template and select "Universal Analytics" or "GA4" (default) as output format. Optionally specify a user-defined set of parameter names for all purchase data for your custom thank you page URL. 
 
