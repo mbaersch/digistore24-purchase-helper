@@ -4,7 +4,7 @@
 
 Extracts Digistore24 purchase data from (user-defined) URL parameters and provides an e-commerce object in Universal Analytics or GA4 format.
 
-![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange)] ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/digistore24-purchase-helper) ![License](https://img.shields.io/github/license/mbaersch/digistore24-purchase-helper)
+![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/digistore24-purchase-helper) ![License](https://img.shields.io/github/license/mbaersch/digistore24-purchase-helper)
 
 ---
 
